@@ -1,0 +1,1 @@
+idf_component_register(SRCS "env_state.c" INCLUDE_DIRS "." REQUIRES json)
